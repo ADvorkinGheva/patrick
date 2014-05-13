@@ -1,4 +1,5 @@
 Mercury
+Venus # acid
 Earth
-Pluto
+Pluto # is this still a planet?
 
