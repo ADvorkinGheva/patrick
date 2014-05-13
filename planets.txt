@@ -1,6 +1,7 @@
 Mercury #small and speedy
 Venus # acid
 Earth
-Jupiter # expensive
+Jupiter # expensive or may be not?
 Pluto # is this still a planet?
+Saturn # NO COMMENTS
 
