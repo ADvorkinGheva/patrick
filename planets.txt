@@ -1,5 +1,6 @@
-Mercury
+Mercury #small and speedy
 Venus # acid
 Earth
+Jupiter # expensive
 Pluto # is this still a planet?
 
